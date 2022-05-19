@@ -69,6 +69,7 @@ li a {
     padding-right: 30px;
     padding-left: 30px;
     line-height: 50px;
+    transition: 0.4s;
 }
 
 .search-btn:hover {
